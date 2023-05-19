@@ -1,2 +1,1 @@
-# I love coffee in the morning.
-# I like eating fruit and veg.
+First practice with html and css
